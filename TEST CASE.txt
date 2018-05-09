@@ -1,0 +1,14 @@
+//TESTING FOR TWITTER WRITE
+
+void TestCase()
+    {
+        cout<<"write tweet"<<endl;
+        cout<<"what is in your mind"<<endl;
+        cin>>write_tweet;
+        if(written == "post")
+        {
+            Twitter<<post<<endl;
+
+        }
+            return;
+    }
